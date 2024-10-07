@@ -19,4 +19,10 @@
   booktitle={33rd USENIX Security Symposium (USENIX Security 24)},
   year={2024}
 }
+@inproceedings{shi2024bandfuzz,
+  title={BandFuzz: A Practical Framework for Collaborative Fuzzing with Reinforcement Learning},
+  author={Shi, Wenxuan and Li, Hongwei and Yu, Jiahao and Guo, Wenbo and Xing, Xinyu},
+  booktitle={Proceedings of the 17th ACM/IEEE International Workshop on Search-Based and Fuzz Testing},
+  year={2024}
+}
 ```
